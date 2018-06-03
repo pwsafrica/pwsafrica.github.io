@@ -9,14 +9,10 @@ description: "Free Programming Workshop for Scientists in Africa" # used by sear
 theme_settings:
   # Meta
   title: Programming Workshop for Scientists # blog's title
-  avatar: assets/img/logo.png
+  # avatar: assets/img/logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
-  # Header and footer text
- # header_text: > #two or three lines to describe your site
- #    <p>An initiative to empower scientists in Africa with <br> the essential programming skills needed for sciences.</p>
- # header_text_feature_image: assets/img/pexels/computer.jpeg
   footer_text: >
    We are very keen to explore possible collaborations, so feel free to get in touch at pwsafrica@gmail.com
   # Icons
