@@ -8,7 +8,7 @@ description: "Free Programming Workshop for Scientists in Africa" # used by sear
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Programming Workshop for Scientists # blog's title
+  title: Programming Workshop for Scientists in Africa # blog's title
   # avatar: assets/img/logo.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
