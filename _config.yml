@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://pwsafrica.github.io"
+url: ""
 title: PWSAfrica # site's title
 description: "Free Programming Workshop for Scientists in Africa" # used by search engines
 
@@ -13,8 +13,12 @@ theme_settings:
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
 
+  # Header and footer text
+ # header_text: > #two or three lines to describe your site
+ #    <p>An initiative to empower scientists in Africa with <br> the essential programming skills needed for sciences.</p>
+ # header_text_feature_image: assets/img/pexels/computer.jpeg
   footer_text: >
-   We are very keen to explore possible collaborations, so feel free to get in touch at pwsafrica@gmail.com
+   We are very keen to explore possible collaborations, so feel free to get in touch at pwsafrica@gmail.com. Follow us on twitter @pwsafrica.
   # Icons
   rss:
   email_address: pwsafrica@gmail.com # Full email address, e.g. "sam@example.com"
