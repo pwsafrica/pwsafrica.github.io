@@ -12,7 +12,7 @@ $padding-x-small: 3%;
 
 // Brand colours
 $theme-color: #337ab7;
-$brand-color: #fff;
+$brand-color: #262626;
 $background-color: #fff;
 $border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
 
@@ -28,11 +28,11 @@ $text-shadow: #3f3f3f;
 $search-color: #999;
 
 // Header colours
-$header-link-color: #383838;
+$header-link-color: #fff;
 $navbar-separator-opacity: 0;
 
 // Feature image for articles
-$feature-image-text-color: #fff;
+$feature-image-text-color: #f2f2f2;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 // Header description box
 $header-desc-background-color: $theme-color;
@@ -68,7 +68,6 @@ $base0c: #89DDFF !default;  // Support, Regular Expressions, Escape Characters, 
 $base0d: #82AAFF !default;  // Functions, Methods, Attribute IDs, Headings
 $base0e: #C792EA !default;  // Keywords, Storage, Selector, Markup Italic, Diff Changed
 $base0f: #FF5370 !default;  // Deprecated, Opening/Closing Embedded Language Tags e.g.
-
 
 
 
