@@ -26,7 +26,7 @@ The workshop will cover an intensive two-week long curriculum designed to train 
 ### Workshop Schedule
 
 -------------------------|-------------------------|-------------------------|-------------------------
-Day | Date | Activity | Learning outcome
+Day | Date | Activity | Outcome
 -------------------------|-------------------------|-------------------------|-------------------------
 0  |  Sun 29/07/2018	| Familiarisation	| Introduction. Installation party. Setting up programming environment
 -------------------------|-------------------------|-------------------------|-------------------------
