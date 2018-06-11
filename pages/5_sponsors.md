@@ -18,4 +18,4 @@ feature-img: "assets/img/pexels/computer2.jpeg"
 <hr>    
 
 ### Supporters
-PWSAfrica logo was generously donated by [Christopher Nosek](http://www.christophernosek.net/).
+PWSAfrica logo was generously designed by [Christopher Nosek](http://www.christophernosek.net/).
