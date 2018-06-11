@@ -19,7 +19,6 @@ theme_settings:
  # header_text_feature_image: assets/img/pexels/computer.jpeg
   footer_text: >
    We are very keen to explore possible collaborations, so feel free to get in touch at pwsafrica@gmail.com. 
-   # Follow us on twitter @pwsafrica.
   # Icons
   rss:
   email_address: pwsafrica@gmail.com # Full email address, e.g. "sam@example.com"
