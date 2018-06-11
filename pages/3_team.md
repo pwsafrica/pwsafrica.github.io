@@ -11,16 +11,13 @@ feature-img: "assets/img/pexels/computer2.jpeg"
 <hr>
 
 <img src="/assets/img/team/sofiat.jpg" alt="Photo of Sofiat" width="40%" height="40%" class="team"/>
-###  [Sofiat Olaosebikan](http://www.dcs.gla.ac.uk/~sofiat/)
+###  [Sofiat Olaosebikan](https://www.gla.ac.uk/schools/computing/researchstudents/sofiatolamijiolaosebikan/)
 <p class="bio"> I am a second-year PhD student in the School of Computing Science at the University of Glasgow, with a passion for problem solving and programming. My research is focused on how we can use mathematical algorithms to find fast and accurate solutions to matching problems. Matching problems arise when we need to construct optimal allocation between sets of entities. An interesting example of matching problem in my home country is the allocation of youths to states for their National Youth Service Corps (NYSC).</p>  
 
 <p class="bio"> 
 I love to code, and I am passionate about using my skills to help people. My desire to pass on my computing knowledge to fellow scientists in my continent was what led to PWSAfrica. I am really excited and enthusiastic about this initiative, and I am very much looking forward to our first workshop in Nigeria. I can't wait to see where this journey takes me and everyone involved.
 </p>
 
-<p> <small>You can find me on <a href="https://www.linkedin.com/in/sofiat-olaosebikan-06b57874/"><i class="fa fa-linkedin-square socials"></i> Linkedin </a> | <a href="https://github.com/sofiatolaosebikan"><i class="fa fa-github-square socials"></i> Github </a> | <a href="https://twitter.com/soolaosebikan"><i class="fa fa-twitter-square socials"></i> Twitter </a> </small></p>
-
-<br> 
 <img src="/assets/img/team/BMB.jpg" alt="Photo of Benjamin" width="70%" height="70%" class="team"/>
 ### Benjamin Bumpus
 <p class="bio"> I am a first-year PhD student at the University of Glasgow. I am an Italian-American with a passion for
@@ -44,7 +41,10 @@ My love for programing stems from how it connects abstract mathematical thought 
 
 # Supporters
 <hr>
-
-### Dr John Williamson
+<img src="/assets/img/team/jhw_white.png" alt="Photo of JohnHW" width="70%" height="70%" class="team"/>
+### [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/)
+<p class="bio"> 
+John Williamson is a Lecturer in the School of Computing Science. He has a keen interest in teaching programming, and has been teaching introductory Python for several years.
+</p>
 
 ### Dr Jeremy Singer
