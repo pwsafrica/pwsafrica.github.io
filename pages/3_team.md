@@ -47,4 +47,5 @@ My love for programing stems from how it connects abstract mathematical thought 
 John Williamson is a Lecturer in the School of Computing Science. He has a keen interest in teaching programming, and has been teaching introductory Python for several years.
 </p>
 
+<br> <br>
 ### Dr Jeremy Singer
