@@ -23,6 +23,10 @@ The workshop will cover an intensive two-week long curriculum designed to train 
 </ul>
 
 
+### Interested?
+If you want to participate in the workshop, please fill out the [application form](https://docs.google.com/forms/d/1HNGjCI76ntX_VrIMPDcpQqJBC9A6O6btCxyVKZaPXUk/edit?ts=5b1fcf97). Deadline for submitting an application is **29th June 2018**. 
+
+
 ### Workshop Schedule
 
 -------------------------|-------------------------|-------------------------|-------------------------
@@ -54,11 +58,6 @@ Day | Date | Activity | Outcome
 -------------------------|-------------------------|-------------------------|-------------------------
 12  |  Fri 10/08/2018 |  Team project. Presentation. Closing session.
 -------------------------|-------------------------|-------------------------|-------------------------
-
-
-### Interested?
-If you want to participate in the workshop, please fill out the [application form](https://docs.google.com/forms/d/1HNGjCI76ntX_VrIMPDcpQqJBC9A6O6btCxyVKZaPXUk/edit?ts=5b1fcf97). Deadline for submitting an application is **29th June 2018**. 
-
 
 ### Contact at the host University: 
 <ul>
