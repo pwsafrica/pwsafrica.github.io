@@ -42,18 +42,17 @@ I’m a Computing Science PhD student specialising in simulations of human syste
 <p class="bio"> Programming is a great tool; you can apply it in almost every field. That is why I am excited to be part of this workshop, to help people learn programming and to get them inspired with the great things they can do with it. </p>
 
 
-
-
-
+<br>
 
 # Supporters
 <hr>
-<img src="/assets/img/team/jhw_white.png" alt="Photo of JohnHW" class="team"/>
+
+<img src="/assets/img/team/jhw_white.png" alt="Photo of JohnHW" class="supporter"/>
 ### [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/)
 <p class="bio"> 
 John Williamson is a Lecturer in the School of Computing Science. He has a keen interest in teaching programming, and has been teaching introductory Python for several years.
 </p>
-<br> <br> <br>
-<img src="/assets/img/team/jeremy.jpg" alt="Photo of Jeremy" class="team"/>
-### Dr Jeremy Singer
-Jeremy Singer is a Senior Lecturer in the School of Computing Science. His main research themes are Compilers and Runtimes for Programming Languages. 
+<br><br>
+<img src="/assets/img/team/jeremy.jpg" alt="Photo of Jeremy" class="supporter"/>
+### [Dr Jeremy Singer](https://www.gla.ac.uk/schools/computing/staff/jeremysinger/)
+<p class="bio"> Jeremy Singer is a Senior Lecturer in the School of Computing Science. His main research themes are Compilers and Runtimes for Programming Languages. </p>
