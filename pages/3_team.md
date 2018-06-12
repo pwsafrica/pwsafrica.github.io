@@ -36,6 +36,7 @@ I’m a Computing Science PhD student specialising in simulations of human syste
 
 <p class="bio"> But PWSAfrica isn’t about socio-technical resilience — PWSAfrica is about the wonderful language that enables research like mine! Python is capable of everything from clever engineering and complex mathematics, while being approachable and expressive. I’m a big fan of Python, I love to teach, and I can’t wait to help teach Python in Ibadan. </p>
 
+<img src="/assets/img/team/fatma.png" alt="Photo of Fatma" class="team"/>
 ### Fatma Elsafoury
 <p class="bio"> I am a final year PhD student at the University of Glasgow. I’m interested in social science computing which is the usage of computing science tools to understand human behavior and to make people’s lives better. My research is about detecting violent incidents from tweets during times of political unrest. Working on a project or PhD for a long time can be stressful at times. So, having interest in Arts and doing activities like drawing, pottery making  and screen script writing made my life easier and taught me a lot of skills. Tutoring is another activity that I enjoy and find it a good way to connect and communicate with people. </p>
 <p class="bio"> Programming is a great tool; you can apply it in almost every field. That is why I am excited to be part of this workshop, to help people learn programming and to get them inspired with the great things they can do with it. </p>
@@ -52,5 +53,7 @@ I’m a Computing Science PhD student specialising in simulations of human syste
 <p class="bio"> 
 John Williamson is a Lecturer in the School of Computing Science. He has a keen interest in teaching programming, and has been teaching introductory Python for several years.
 </p>
-
+<br> <br> <br>
+<img src="/assets/img/team/jeremy.jpg" alt="Photo of Jeremy" class="team"/>
 ### Dr Jeremy Singer
+Jeremy Singer is a Senior Lecturer in the School of Computing Science. His main research themes are Compilers and Runtimes for Programming Languages. 
