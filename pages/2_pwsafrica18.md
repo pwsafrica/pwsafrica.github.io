@@ -57,7 +57,7 @@ Day | Date | Activity | Outcome
 
 
 ### Interested?
-The [application form](https://docs.google.com/forms/d/1HNGjCI76ntX_VrIMPDcpQqJBC9A6O6btCxyVKZaPXUk/edit?ts=5b1fcf97) for participating in the workshop is now available. Deadline for submitting an application is **29th June 2018**. 
+If you want to participate in the workshop, please fill out the [application form](https://docs.google.com/forms/d/1HNGjCI76ntX_VrIMPDcpQqJBC9A6O6btCxyVKZaPXUk/edit?ts=5b1fcf97). Deadline for submitting an application is **29th June 2018**. 
 
 
 ### Contact at the host University: 
