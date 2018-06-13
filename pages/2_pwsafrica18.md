@@ -12,8 +12,8 @@ The workshop will cover an intensive two-week long curriculum designed to train 
 
 ### Learning Outcome
 <ul>
-<li> Learning how to identify Python object types. </li>
-<li> Learning about various data structures, including lists, tuples, and dictionaries. </li>
+<li> Learning how to identify Python data types. </li>
+<li> Learning about various data structures, including lists, tuples, sets, and dictionaries. </li>
 <li> Learning about loops and decision statements. </li>
 <li> Learning how to write functions and pass arguments. </li>
 <li> Learning how to process and analyse data. </li>
