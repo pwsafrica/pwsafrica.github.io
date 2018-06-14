@@ -15,7 +15,7 @@ feature-img: "assets/img/pexels/computer2.jpeg"
 <p class="bio"> I am a Computing Science PhD student at the University of Glasgow, with a passion for problem solving and programming. My research is focused on how we can use mathematical algorithms to find fast and accurate solutions to matching problems. Matching problems arise when we need to construct optimal allocation between sets of entities. An interesting example of matching problem in my home country is the allocation of youths to states for their National Youth Service Corps (NYSC).</p>  
 <p class="bio"> 
 I love to code, and I am passionate about using my skills to help people. My desire to pass on my computing knowledge to fellow scientists in my continent was what led to PWSAfrica. I am really excited and enthusiastic about this initiative, and I am very much looking forward to our first workshop in Nigeria. I can't wait to see where this journey takes me and everyone involved.</p>
-<br>
+
 <img src="/assets/img/team/BMB.jpg" alt="Photo of Benjamin" class="team"/>
 ### Benjamin Bumpus
 <p class="bio"> I am a first-year PhD student at the University of Glasgow. I am an Italian-American with a passion for
