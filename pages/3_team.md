@@ -10,7 +10,7 @@ feature-img: "assets/img/pexels/computer2.jpeg"
 # Tutors
 <hr>
 
-<img src="/assets/img/team/sofiat.jpg" alt="Photo of Sofiat" width="70%" height="70%" class="team"/>
+<img src="/assets/img/team/sofiat.jpg" alt="Photo of Sofiat" class="sofiat"/>
 ###  [Sofiat Olaosebikan](https://www.gla.ac.uk/schools/computing/researchstudents/sofiatolamijiolaosebikan/)
 <p class="bio"> I am a Computing Science PhD student at the University of Glasgow, with a passion for problem solving and programming. My research is focused on how we can use mathematical algorithms to find fast and accurate solutions to matching problems. Matching problems arise when we need to construct optimal allocation between sets of entities. An interesting example of matching problem in my home country is the allocation of youths to states for their National Youth Service Corps (NYSC).</p>  
 <p class="bio"> 
