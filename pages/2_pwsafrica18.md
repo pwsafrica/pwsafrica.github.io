@@ -24,7 +24,7 @@ The workshop will cover an intensive two-week long curriculum designed to train 
 
 
 ### Interested?
-If you want to participate in the workshop, please fill out the [application form](https://docs.google.com/forms/d/1HNGjCI76ntX_VrIMPDcpQqJBC9A6O6btCxyVKZaPXUk/edit?ts=5b1fcf97). Deadline for submitting an application is **29th June 2018**. 
+If you want to participate in the workshop, please fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSe5ylJ6w8HzPuZXyIO-bh1qC2rUVbnlPCoydJnXKPs9BlijlA/viewform). Deadline for submitting an application is **29th June 2018**. 
 
 
 ### Workshop Schedule
