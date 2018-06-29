@@ -28,7 +28,7 @@ My love for programing stems from how it connects abstract mathematical thought 
 <img src="/assets/img/team/fionnuala.JPG" alt="Photo of Fionnuala" class="team"/>
 ### Fionnuala Johnson
 <p class="bio">
-I studied computing science at University College Dublin in Ireland before moving to the University of Glasgow to do postgraduate research in Computer Animation. In order to fund my postgraduate studies, I tutored undergraduate courses alongside research. After a career break to raise five children, I returned to UofG as a full-time tutor five years ago. My interests are now in Computer Science Education. I am particularly concerned with what we teach our students and what methods we use to achieve this. I hope to embark on postgraduate research in this area. 
+I studied computing science at University College Dublin in Ireland before moving to the University of Glasgow to do postgraduate research in Computer Animation. In order to fund my postgraduate studies, I tutored undergraduate courses alongside research. After a career break to raise five children, I returned to UofG as a full-time tutor five years ago. My interests are now in Computer Science Education. I am particularly concerned with what we teach our students and what methods we use to achieve this. I hope to embark on postgraduate research in this area. </p>
   
  <p class="bio"> I am delighted to be given the opportunity to design a beginner's course in Python programming. I am looking forward to delivering this training at the University of Ibadan. I hope that teaching programming to non-computer science students will deepen my understanding of how to explain the basic computing concepts. </p>
 
