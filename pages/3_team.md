@@ -25,7 +25,7 @@ farming, mathematics and computer science. My mathematical interests lie in comb
 My love for programing stems from how it connects abstract mathematical thought and concrete computation. I am excited about the PWSAfrica project because I can't wait to show other mathematicians and scientists all about the wonderful interplay between mathematical thought and its physical embodiment!
 </p>
 
-<img src="/assets/img/team/fionnuala.jpg" alt="Photo of Fionnuala" class="team"/>
+<img src="/assets/img/team/fionnuala.jpg" alt="Photo of Fionnuala" class="sofiat"/>
 ### Fionnuala Johnson
 <p class="bio">
 I studied computing science at University College Dublin in Ireland before moving to the University of Glasgow to do postgraduate research in Computer Animation. In order to fund my postgraduate studies, I tutored undergraduate courses alongside research. After a career break to raise five children, I returned to UofG as a full-time tutor five years ago. My interests are now in Computer Science Education. I am particularly concerned with what we teach our students and what methods we use to achieve this. I hope to embark on postgraduate research in this area. </p>
