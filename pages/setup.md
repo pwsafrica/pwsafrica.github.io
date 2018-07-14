@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /setup/
+hide: true
 subtitle: "<hr>Setup instructions for the Jupyter environment.."
 feature-img: "assets/img/pexels/computer2.jpeg"
 --- 
