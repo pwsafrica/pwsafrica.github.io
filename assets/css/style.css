@@ -39,3 +39,9 @@
 	margin: 0;
 	padding: 10px;
 }
+
+
+.p-header {
+	color: #262626; !important
+	font-size: 90%;
+}
