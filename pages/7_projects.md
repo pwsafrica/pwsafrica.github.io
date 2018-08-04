@@ -39,7 +39,7 @@ You can find Ben's project in your `pwsafrica/pwsafrica_projects` folder, or [do
 
 
 
-You can find Sofiat's project in your `pwsafrica/pwsafrica_projects` folder, or [download it here]({{site.baseurl}}/assets/matching_project.pdf)!
+You can find Sofiat's project in your `pwsafrica/pwsafrica_projects` folder, or [download it here]({{site.baseurl}}/assets/matching_project.zip)!
 
 
 
