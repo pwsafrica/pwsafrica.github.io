@@ -2,6 +2,7 @@
 layout: post
 title: PWSAfrica - How it all started
 excerpt_separator: <!--more-->
+author: "Sofiat Olaosebikan"
 ---
 
 In December 2017, I was drawing out plans for the coming year, and one of them was to visit my family in Nigeria.. but then I thought to myself, what if, during this visit, I go to my home university (University of Ibadan, Nigeria) and pass on some knowledge. Immediately, the thought of teaching programming for scientific computing popped to my mind. The reason for this choice is majorly because the teaching of programming lanaguage is not heavily included in the science and engineering curriculum at the University, and given that my continent (Africa) needs skilled scientific programmers to drive forward much of its economy, there is an urgent need to fill this gap. But then I thought to myself again.. What if this programming training could be run annually? What if it could be expanded to different Univerisities in Africa?.. I basically came up with lots of what if’s that would maximise the benefits of this initiative. <!--more-->
