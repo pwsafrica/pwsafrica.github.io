@@ -45,3 +45,8 @@
 	color: #262626; !important
 	font-size: 90%;
 }
+
+.posts, .post-teaser {
+	padding-left: 10%;
+	padding-right: 10%;
+}

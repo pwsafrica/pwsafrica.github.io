@@ -31,9 +31,9 @@ feature-img: "assets/img/pexels/computer2.jpeg"
           <div class="excerpt">
               {{ post.excerpt | strip_html | escape }}
             <!--{{ post.content | strip_html | truncate: "250" }}-->
-            <!--<a class="button" href="{{ post.url | prepend: site.baseurl }}">
+            <a class="button" href="{{ post.url | prepend: site.baseurl }}">
               {{ site.theme_settings.str_continue_reading }}
-            </a>-->
+            </a>
           </div>
       </span>
     </div>
