@@ -11,7 +11,7 @@ feature-img: "assets/img/pexels/computer2.jpeg"
 
 At the end of the workshop, we're not going to teach you anything new. What's the point in cramming more in if you're never given the chance to solve interesting problems with what you know?
 
-Tom, Ben and Sofiat have put together three projects to test your understanding of Python, and to give you some lovely meaty problems that should be fun to work on.
+Tom, Ben, Sofiat and Fionnuala have put together projects to test your understanding of Python, and to give you some lovely meaty problems that should be fun to work on.
 
 ## Designing and implementing your own language
 <!-- Tom's project description -->
@@ -60,4 +60,12 @@ design an automated system that can be used to efficiently allocate corps member
 You can find Sofiat's project in your `pwsafrica/pwsafrica_projects` folder, or [download it here]({{site.baseurl}}/assets/matching_project.zip)!
 
 
+## An animation of firework
+<!-- Fionnuala's project description -->
+
+We are celebrating the end of our programming workshop and we want to do it in style. The task set is to create a firework display for the closing cermony (on the computer screen!!!)
+
+
+
+You can find Fionnuala's project in your `pwsafrica/pwsafrica_projects` folder, or [download it here]({{site.baseurl}}/assets/fireworks_project.zip)!
 
