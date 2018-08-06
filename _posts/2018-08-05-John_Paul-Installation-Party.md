@@ -1,5 +1,5 @@
 ---
-title: Day 0: Installation Party
+title: Day 0 - Installation Party
 excerpt_separator: <!--more-->
 layout: post
 author: "John Paul"
