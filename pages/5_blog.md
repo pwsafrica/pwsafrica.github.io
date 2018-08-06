@@ -11,7 +11,7 @@ feature-img: "assets/img/pexels/computer2.jpeg"
 
   <div class="posts">
     {% for post in site.posts %}
-    <div class="post-teaser">
+    <div class="post-teaser" style="padding-left: 0%; padding-right: 0%;">
       {% if post.thumbnail %} 
       <div class="post-img">
          <img src="{{ site.baseurl }}/{{ post.thumbnail }}">
@@ -25,13 +25,13 @@ feature-img: "assets/img/pexels/computer2.jpeg"
               </a>
             </h1>
             <p class="meta" style="color:#383838;">
-              {{ post.date | date: "%B %-d, %Y" }}
+              {{ post.date | date: "%B %-d, %Y" }}{% if post.author %} — {{ post.author }}{% endif %}
             </p>
           </header>
           <div class="excerpt">
               {{ post.excerpt | strip_html | escape }}
             <!--{{ post.content | strip_html | truncate: "250" }}-->
-            <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+            <br><a class="button" href="{{ post.url | prepend: site.baseurl }}">
               {{ site.theme_settings.str_continue_reading }}
             </a>
           </div>

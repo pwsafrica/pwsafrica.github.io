@@ -5,13 +5,13 @@ layout: post
 author: "John Paul"
 ---
 
-<small>I chose zero because I like natural numbers.</small>
+I chose zero because I like natural numbers.
 
 Day zero installation party…. Uhmmm… Someone like me would have been surprised to see ballons hanging around, lights throwing out their rays “markovly” but I wasn’t surprised as everything was perfectly normal.
 
-<!--more-->
-
 My experience on day zero was quite exciting. I had to run in the rain, damning all consequences of how Marvey would have been affected because of the rain (Yass!! Nothing happened). I wasn’t able  to get to the exact venue at at first but thanks to a good samaritan who came to pick me from the place of ‘no-life’ to the Mathematics Laboratory where the pary was holding. 
+
+<!--more-->
 
 Boom! Music was playing, people dancing, arms being flung in the air, energing bubbling at the party... (All these happened in my head). Back to reality, I saw the guys fully prepared for us namely:Sofiat, Tom, Ben, Fatma, Fionnuala (I still have trouble pronouncing this). 
 
