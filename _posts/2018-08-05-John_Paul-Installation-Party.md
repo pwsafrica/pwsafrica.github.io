@@ -20,4 +20,5 @@ On the white board was the description of how to go about the installation and t
 Overall, it was a vey nice experience. PWSAfrica is doing something amazing, empowering us with programming skills for free. It is awesome and I look forward to PWSAfrica spreading to other countries in the continent. Great job guys, well done.
 
 Note: Marvey is what I call my laptop → A big fan of suits
+
 Note: “O ya mi lenu gan” loosely translates to “I was very surprised” 
