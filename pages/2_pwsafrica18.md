@@ -23,10 +23,6 @@ The workshop will cover an intensive two-week long curriculum designed to train 
 </ul>
 
 
-### Interested?
-If you want to participate in the workshop, please fill out the [application form](https://docs.google.com/forms/d/e/1FAIpQLSe5ylJ6w8HzPuZXyIO-bh1qC2rUVbnlPCoydJnXKPs9BlijlA/viewform). Deadline for submitting an application is **29th June 2018**. 
-
-
 ### Workshop Schedule
 
 -------------------------|-------------------------|-------------------------|-------------------------
@@ -61,6 +57,5 @@ Day | Date | Activity | Outcome
 
 ### Contact at the host University: 
 <ul>
-<li> Dr U.N. Bassey, HOD Mathematics (unbassey@yahoo.com), </li>
-<li> Mr Akeju (aoakejuui@gmail.com).</li>
+<li> Mr Akeju (aoakejuui@gmail.com)</li>
 </ul>
