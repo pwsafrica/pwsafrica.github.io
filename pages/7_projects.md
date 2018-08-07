@@ -13,7 +13,7 @@ At the end of the workshop, we're not going to teach you anything new. What's th
 
 Tom, Ben, Sofiat and Fionnuala have put together projects to test your understanding of Python, and to give you some lovely meaty problems that should be fun to work on.
 
-## Designing and implementing your own language
+## Project 1: Designing and implementing your own language
 <!-- Tom's project description -->
 
 It's nice to be able to write Python, but programming languages actually aren't that special. Tom's absolutely fascinated by programming languages, and he solved this problem when *he* was learning Python, and he thinks you can, too.
@@ -24,7 +24,7 @@ You can find Tom's project in your `pwsafrica/pwsafrica_projects` folder, or [do
 
 
 
-## Mathematical Modelling and Scientific Computation
+## Project 2: Mathematical Modelling and Scientific Computation
 <!-- Ben's project description -->
 In 2015, the Kariba Dam at the Zambezi River between Zambia and Zimbabwe
 was found to be in danger of failing, and it was advised that action be taken
@@ -43,7 +43,7 @@ You can find Ben's project in your `pwsafrica/pwsafrica_projects` folder, or [do
 
 
 
-## Matching Corp Members in the NYSC
+## Project 3: Matching Corp Members in the NYSC
 <!-- Sofiat's project description -->
 
 The National Youth Service Corps (NYSC) is an organization set up by the Nigerian government
@@ -60,7 +60,7 @@ design an automated system that can be used to efficiently allocate corps member
 You can find Sofiat's project in your `pwsafrica/pwsafrica_projects` folder, or [download it here]({{site.baseurl}}/assets/matching_project.zip)!
 
 
-## An animation of firework
+## Project 4: An animation of firework
 <!-- Fionnuala's project description -->
 
 We are celebrating the end of our programming workshop and we want to do it in style. The task set is to create a firework display for the closing cermony (on the computer screen!!!)
