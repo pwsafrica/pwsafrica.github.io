@@ -59,6 +59,7 @@ design an automated system that can be used to efficiently allocate corps member
 
 You can find Sofiat's project in your `pwsafrica/pwsafrica_projects` folder, or [download it here]({{site.baseurl}}/assets/matching_project.zip)!
 
+**NEW:** [NYSC txt file](({{site.baseurl}}/assets/NYSC_instance.txt)!) involving 1000 corp members.
 
 ## Project 4: An animation of firework
 <!-- Fionnuala's project description -->
