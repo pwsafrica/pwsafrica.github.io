@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 permalink: /blog/	
-subtitle: "<hr> Read about our experience running PWSAfrica." 
+subtitle: "<hr> Read about our experience and that of our past participants." 
 feature-img: "assets/img/pexels/computer2.jpeg"
 ---
 
