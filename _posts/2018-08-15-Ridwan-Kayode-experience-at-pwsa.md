@@ -9,6 +9,8 @@ I must say, PWS Africa 2018 is the best programming workshop I have attended as 
 
     After a few weeks of hopefulness, my fantasy became a reality. I received a letter of invitation from the team, which I accepted excitedly, though uncertain if the workshop would be worth it since the tutors are not being paid. To my amazement, it was the most wonderful and motivating workshop I had ever participated in, was so well organized, packaged and delivered professionally from start to finish.
 
+<!--more-->
+
     All we ever needed was provided; all we had to bring was our laptops. We had free internet connections, there was a standby generator due to the epileptic power supply in our country, to avoid over-crowding, the workshop session was divided into morning and afternoon session, the AC was working perfectly, there was snacks and soft drinks by noon, etc. in short, the lecture was set in a make-learning-easy environment.
 
     On the first day of the workshop, we did a formal introduction of ourselves to the tutors and they did same, we were informed on the wide range of application of python programming and everyone could just not wait to start programming. We learnt how to break down complex problems into a simplified understandable program, executable by the computer by following the rules guiding the use of python. All the tutors from Sofia, Fionnuala, Tom, Ben to Fatima attended to all questions without intimidating nor assigning any, a foolish question. Every question was welcome and attended to professionally in the best possible understandable way.
