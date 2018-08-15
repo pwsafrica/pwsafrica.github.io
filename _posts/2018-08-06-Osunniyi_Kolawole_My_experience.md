@@ -1,5 +1,5 @@
 ---
-title: My experience at PWSAfrica18
+title: Osunniyi's experience at PWSAfrica18
 excerpt_separator: <!--more-->
 layout: post
 author: "Osunniyi Kolawole"
