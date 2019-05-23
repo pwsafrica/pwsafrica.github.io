@@ -1,7 +1,7 @@
 ---
 
 title: PWSAfrica19
-subtitle: "<hr>Where: School of ICT, College of Science and Technology, University of Rwanda.<br> <br> When: August 19 - 30 2019.</hr>"
+subtitle: "<hr>Where: School of ICT, College of Science and Technology, University of Rwanda.<br> <br> When: August 19 - 30 2019."
 layout: page
 
 ---
