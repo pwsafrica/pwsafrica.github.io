@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 subtitle: "<hr> PWSAfrica was born out of a strong desire to give back, to inspire, and to empower."
-feature-img: "assets/img/pexels/computer2-2.jpeg"
+feature-img: "assets/img/pexels/computer2-2.jpg"
 ---
 
 ## Our goal

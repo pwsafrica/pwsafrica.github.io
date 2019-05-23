@@ -2,7 +2,7 @@
 layout: page
 title: PWSAfrica19
 subtitle: "<hr>Where: School of ICT, College of Science and Technology, University of Rwanda.<br> <br> When: August 19 - 30 2019."
-feature-img: "assets/img/pexels/computer2-2.jpeg"
+feature-img: "assets/img/pexels/computer2-2.jpg"
 ---
 
 Below, you can fill in a form to apply to PWSAfrica 2019 in Rwanda! We are very excited to be teaching in Kigali and look forward to informing you as to your application's success.
