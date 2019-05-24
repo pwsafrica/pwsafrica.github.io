@@ -4,6 +4,8 @@ title: PWSAfrica18
 permalink: /2018/
 subtitle: "<hr>Where: Department of Mathematics, University of Ibadan, Nigeria. <br> <br> When: July 30 - August 10 2018."
 feature-img: "assets/img/pexels/computer2-2.jpg"
+gallery_path: "assets/img/pwsa_homepage_gallery"
+
 --- 
 <link rel="stylesheet" href="/assets/css/style.css">
 
@@ -179,4 +181,10 @@ We've put together one final piece of materials: a Jupyter Notebook containing a
 [You can download the notebook here.]({{site.baseurl}}/assets/future_work.ipynb) If you have questions, remember you can email and ask.
 
 Thanks so much for attending the workshop!
+
+<hr>
+
+## PWSAfrica 2018 in Photos
+
+{% include gallery.html gallery_path=page.gallery_path %}
 
