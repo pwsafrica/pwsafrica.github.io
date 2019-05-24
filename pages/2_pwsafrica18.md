@@ -3,7 +3,7 @@ layout: page
 title: PWSAfrica18
 permalink: /2018/
 subtitle: "<hr>Where: Department of Mathematics, University of Ibadan, Nigeria. <br> <br> When: July 30 - August 10 2018."
-feature-img: "assets/img/pexels/computer2.jpeg"
+feature-img: "assets/img/pexels/computer2-2.jpg"
 --- 
 
 ### Workshop information
