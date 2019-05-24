@@ -3,7 +3,7 @@ layout: page
 title: Blog
 permalink: /blog/	
 subtitle: "<hr> Read about our experience and that of our past participants." 
-feature-img: "assets/img/pexels/computer2.jpeg"
+feature-img: "assets/img/pexels/computer2-2.jpg"
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">

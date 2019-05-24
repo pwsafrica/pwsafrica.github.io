@@ -3,7 +3,7 @@ layout: page
 title: Our Supporters
 permalink: /supporters/
 subtitle: "<hr> We are very grateful to our sponsors for their generous support."
-feature-img: "assets/img/pexels/computer2.jpeg"
+feature-img: "assets/img/pexels/computer2-2.jpg"
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">

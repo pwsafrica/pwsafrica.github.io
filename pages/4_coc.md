@@ -3,7 +3,7 @@ layout: page
 title: Code of Conduct
 permalink: /CoC/
 subtitle: "<hr> We expect cooperation from all participants to help ensure a safe learning environment for everybody"
-feature-img: "assets/img/pexels/computer2.jpeg"
+feature-img: "assets/img/pexels/computer2-2.jpg"
 ---
 
 
