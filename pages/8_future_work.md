@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Future Work
+hide: true
 permalink: /future-work/	
 subtitle: "PWSAfrica 2018 has ended, but the learning never has to." 
 feature-img: "assets/img/pexels/computer2.jpeg"

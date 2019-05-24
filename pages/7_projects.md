@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+hide: true
 permalink: /projects/
 subtitle: "<hr> Big projects for a big workshop"
 feature-img: "assets/img/pexels/computer2.jpeg"

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team
+hide: true
 permalink: /team/
 subtitle: "<hr> We are passionate about programming and we want to share the experience with others."
 feature-img: "assets/img/pexels/computer2.jpeg"
