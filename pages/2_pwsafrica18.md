@@ -64,7 +64,7 @@ Day | Date | Activity | Outcome
 
 ## Tutors
 
-<img src="/assets/img/team/sofiat.jpg" alt="Photo of Sofiat" class="sofiat"/>
+<img src="/assets/img/team/smaller-sofiat.jpg" alt="Photo of Sofiat" class="sofiat"/>
 ###  [Sofiat Olaosebikan](https://www.gla.ac.uk/schools/computing/researchstudents/sofiatolamijiolaosebikan/)
 <p class="bio"> I am a Computing Science PhD student at the University of Glasgow, with a passion for problem solving and programming. My research is focused on how we can use mathematical algorithms to find fast and accurate solutions to matching problems. Matching problems arise when we need to construct optimal allocation between sets of entities. An interesting example of matching problem in my home country is the allocation of youths to states for their National Youth Service Corps (NYSC).</p>
 <p class="bio">
@@ -106,7 +106,7 @@ I’m a Computing Science PhD student specialising in simulations of human syste
 John Williamson is a Lecturer in the School of Computing Science. He has a keen interest in teaching programming, and has been teaching introductory Python for several years.
 </p>
 <br><br><br><br><br>
-<img src="/assets/img/team/jeremy.jpg" alt="Photo of Jeremy" class="sofiat"/>
+<img src="/assets/img/team/smaller-jeremy.jpg" alt="Photo of Jeremy" class="sofiat"/>
 ### [Dr Jeremy Singer](https://www.gla.ac.uk/schools/computing/staff/jeremysinger/)
 <p class="bio"> Jeremy Singer is a Senior Lecturer in the School of Computing Science. His main research themes are Compilers and Runtimes for Programming Languages. </p>
 <br><br><br><br>
