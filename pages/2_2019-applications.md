@@ -24,7 +24,7 @@ The following are the PWSA2019 tutors -- they enjoy programming and they are pas
 1. Alexandrina Pancheva <br>
 2. [Benjamin Bumpus](https://benjaminmerlinbumpus.github.io/) <br>
 3. Fionnuala Johnson <br>
-4. [Sofiat Olaosebikan](https://www.dcs.gla.ac.uk/~sofiat/) <br>
+4. [Sofiat Olaosebikan](http://www.dcs.gla.ac.uk/~sofiat/) <br>
 5. Tom Wallis  <br>
 6. Ifeoma Okoh <br>
 7. John Paul
