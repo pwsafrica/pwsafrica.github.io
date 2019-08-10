@@ -103,7 +103,7 @@ I’m a Computing Science PhD student specialising in simulations of human syste
 [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/)
 <p class="bio">
 John Williamson is a Lecturer in the School of Computing Science. He has a keen interest in teaching programming, and has been teaching introductory Python for several years.
-</p>
+</p> <br>
 [Dr Jeremy Singer](https://www.gla.ac.uk/schools/computing/staff/jeremysinger/)
 <p class="bio"> Jeremy Singer is a Senior Lecturer in the School of Computing Science. His main research themes are Compilers and Runtimes for Programming Languages. </p>
 
