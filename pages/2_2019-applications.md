@@ -37,7 +37,7 @@ Q: When is the workshop happening? <br>
 A: Monday 19 to Friday 30 August 2019.
 
 Q: Where is the workshop taking place? <br>
-A: School of ICT, College of Science and Tec8nology, University of Rwanda, Kigali.
+A: School of ICT, College of Science and Technology, University of Rwanda, Kigali.
 
 Q: What venue within the School of ICT is the workshop taking place? <br>
 A: Computer lab, third floor, Kalisimbi building (formerly Kist IV building).
