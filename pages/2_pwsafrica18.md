@@ -190,6 +190,7 @@ Thanks so much for attending the workshop!
   <img src="/assets/img/sicsa.jpg"  width="60%" height="60%" alt="SICSA"  class="collaborators"/>
 </p>
 
+<hr> 
 
 ## PWSAfrica 2018 in Photos
 
