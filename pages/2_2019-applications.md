@@ -31,3 +31,8 @@ The following are the PWSA2019 tutors -- they enjoy programming and they are pas
 <hr>
 
 ### Frequently asked questions
+Q: Where is the working taking place?
+A: School of Information Communication Technology, University of Rwanda, Kigali.
+
+Q: What venue within the School of ICT is the training happening?
+A: Computer lab, third floor, Kalisimbi building (formerly Kist IV building).
