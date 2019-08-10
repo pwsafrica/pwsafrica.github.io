@@ -20,7 +20,7 @@ The two-week long workshop will introduce you to the Python programming language
 The following are the PWSA2019 tutors -- they enjoy programming and they are passionate about helping others learn it. The first five people are PhD students from the School of Computing Science, University of Glasgow, while the last two people are from the University of Ibadan in Nigeria. They participated in PWSA2018, and we hope to train them during PWSA2019, so that they can go on to train others in their University effectively.
 <ol>
 <li> Alexandrina Pancheva </li>
-<li> Benjamin Bumpus </li>
+<li> [Benjamin Bumpus](https://benjaminmerlinbumpus.github.io/) </li>
 <li> Fionnuala Johnson </li>
 <li> [Sofiat Olaosebikan](http://www.dcs.gla.ac.uk/~sofiat/) </li>
 <li> Tom Wallis </li>
