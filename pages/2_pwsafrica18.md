@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PWSAfrica18
+title: PWSA2018
 permalink: /2018/
 subtitle: "<hr>Where: Department of Mathematics, University of Ibadan, Nigeria. <br> <br> When: July 30 - August 10 2018."
 feature-img: "assets/img/pexels/computer2-2.jpg"
@@ -100,16 +100,13 @@ I’m a Computing Science PhD student specialising in simulations of human syste
 
 ## Supporters
 
-<img src="/assets/img/team/smaller-jhw_white.png" alt="Photo of JohnHW" class="sofiat"/>
-### [Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/)
+[Dr John Williamson](https://www.gla.ac.uk/schools/computing/staff/johnwilliamson/)
 <p class="bio">
 John Williamson is a Lecturer in the School of Computing Science. He has a keen interest in teaching programming, and has been teaching introductory Python for several years.
 </p>
-<br><br><br><br><br>
-<img src="/assets/img/team/smaller-jeremy.jpg" alt="Photo of Jeremy" class="sofiat"/>
-### [Dr Jeremy Singer](https://www.gla.ac.uk/schools/computing/staff/jeremysinger/)
+[Dr Jeremy Singer](https://www.gla.ac.uk/schools/computing/staff/jeremysinger/)
 <p class="bio"> Jeremy Singer is a Senior Lecturer in the School of Computing Science. His main research themes are Compilers and Runtimes for Programming Languages. </p>
-<br><br><br><br>
+
 <hr>
 
 

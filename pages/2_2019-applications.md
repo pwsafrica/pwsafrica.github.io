@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PWSAfrica19
+title: PWSA2019
 permalink: /2019/
 subtitle: "<hr>Where: School of ICT, College of Science and Technology, University of Rwanda.<br> <br> When: 19 - 30 August 2019."
 feature-img: "assets/img/pexels/computer2-2.jpg"
@@ -37,13 +37,13 @@ Q: When is the workshop happening? <br>
 A: Monday 19 to Friday 30 August 2019.
 
 Q: Where is the workshop taking place? <br>
-A: School of ICT, College of Science and Tehcnology, University of Rwanda, Kigali.
+A: School of ICT, College of Science and Tec8nology, University of Rwanda, Kigali.
 
 Q: What venue within the School of ICT is the workshop taking place? <br>
 A: Computer lab, third floor, Kalisimbi building (formerly Kist IV building).
 
 Q: What is the teaching schedule like? <br>
-A: The morning session will run from 9000 to 1300, while the afternoon session will run from 1430 to 1630. Each session will involve teaching with lots of hands-on programming.
+A: The morning session will run from 9000 to 1300, while the afternoon session will run from 1430 to 1830. Each session will involve teaching with lots of hands-on programming.
 
 Q: Is there provision for accommodation, meals and transportation for the participants? <br>
 A: No. You will have to cater for this yourself.
