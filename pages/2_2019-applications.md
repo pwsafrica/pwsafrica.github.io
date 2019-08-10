@@ -31,8 +31,20 @@ The following are the PWSA2019 tutors -- they enjoy programming and they are pas
 <hr>
 
 ### Frequently asked questions
-Q: Where is the working taking place?
+Q: Where is the working taking place? <br>
 A: School of Information Communication Technology, University of Rwanda, Kigali.
 
-Q: What venue within the School of ICT is the training happening?
+Q: What venue within the School of ICT is the training happening? <br>
 A: Computer lab, third floor, Kalisimbi building (formerly Kist IV building).
+
+Q: Is there provision for accommodation, meals and transportation for the participants? <br>
+A: No. 
+
+Q: Will you provide the participants with official letter of invitation?
+A: No. We only send email notifying you that you have been selected.
+
+Q: Would it possible for someone that do not own a personal laptop to attend the workshop?
+A: Yes, each participants will have access to a desktop computer during the workshop.
+
+Q: What if I have a personal laptop, can I bring it along?
+A: Yes, you can come along with your laptop. However, you will need to install the anaconda distribution. See guidelines at this [link](https://pwsafrica.org/setup/).
