@@ -3,20 +3,24 @@
 {% if site.theme_settings.footer_text %}
 <footer class="site-footer">
 
+ <!--
+
 <p float="left">
   <img src="/assets/img/logo.png" alt="Our logo" width="25%" height="25%" alt="PWSAfrica logo" class="collaborators"/>
   <img src="/assets/img/SoCS.png" alt="SoCS"  width="35%" height="35%" alt="SoCS logo" class="collaborators"/> 
   <img src="/assets/img/mathUI.png"  width="35%" height="35%" alt="Mathematics Uni Ibadan"  class="collaborators"/>
 </p>
+-->
+
  <!--
 		<section> 
 		<img src="/assets/img/logo.png" alt="Our logo" width="40%" height="40%"/> <img src="/assets/img/SoCS.png" alt="SoCS"  width="40%" height="40%"/>  <img src="/assets/img/mathUI.png"  width="40%" height="40%" alt="Mathematics Uni Ibadan"/>
 		</section>-->
 		
-		
+		<p class="text">{{ site.theme_settings.footer_text }}</p>
 	
     
-    <!-- <p class="text">{{ site.theme_settings.footer_text }}</p>
+    <!-- 
  			<div class="footer-icons">
                 <ul>
                  Social icons from Font Awesome, if enabled \
