@@ -184,6 +184,13 @@ Thanks so much for attending the workshop!
 
 <hr>
 
+### Sponsors
+<p float="left">
+  <img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
+  <img src="/assets/img/sicsa.jpg"  width="60%" height="60%" alt="SICSA"  class="collaborators"/>
+</p>
+
+
 ## PWSAfrica 2018 in Photos
 
 {% include gallery.html gallery_path=page.gallery_path %}

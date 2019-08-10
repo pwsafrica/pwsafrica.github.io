@@ -6,6 +6,8 @@ subtitle: "<hr>Where: School of ICT, College of Science and Technology, Universi
 feature-img: "assets/img/pexels/computer2-2.jpg"
 ---
 
+<link rel="stylesheet" href="/assets/css/style.css">
+
 ### Workshop participants
 The application for the workshop is closed! We selected 120 participants and they have all been contacted. Please note that we can no longer accommodate more people!
 
@@ -60,4 +62,13 @@ A: If you can no longer attend the workshop for one reason or the other, please 
 
 Q: Will you provide us with a certificate of participation? <br>
 A: Yes, we will provide you with a certificate, on the condition that you attend all workshop sessions, attempt all programming tasks and assignments, and participate in the final group project. 
+
+
+<hr>
+
+### Sponsors
+<p float="left">
+  <img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
+
+</p>
 
