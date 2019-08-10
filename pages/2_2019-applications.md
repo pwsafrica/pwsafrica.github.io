@@ -22,7 +22,7 @@ The following are the PWSA2019 tutors -- they enjoy programming and they are pas
 <li> Alexandrina Pancheva </li>
 <li> Benjamin Bumpus </li>
 <li> Fionnuala Johnson </li>
-<li> Sofiat Olaosebikan </li>
+<li> [Sofiat Olaosebikan](http://www.dcs.gla.ac.uk/~sofiat/) </li>
 <li> Tom Wallis </li>
 <li> Ifeoma Okoh </li>
 <li> John Paul </li>
