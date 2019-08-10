@@ -31,20 +31,30 @@ The following are the PWSA2019 tutors -- they enjoy programming and they are pas
 <hr>
 
 ### Frequently asked questions
-Q: Where is the working taking place? <br>
-A: School of Information Communication Technology, University of Rwanda, Kigali.
+Q: When is the workshop happening? <br>
+A: Monday 19 to Friday 30 August 2019.
 
-Q: What venue within the School of ICT is the training happening? <br>
+Q: Where is the workshop taking place? <br>
+A: School of ICT, College of Science and Tehcnology, University of Rwanda, Kigali.
+
+Q: What venue within the School of ICT is the workshop taking place? <br>
 A: Computer lab, third floor, Kalisimbi building (formerly Kist IV building).
 
 Q: Is there provision for accommodation, meals and transportation for the participants? <br>
-A: No. 
+A: No. You will have to cater for this yourself.
 
-Q: Will you provide the participants with official letter of invitation?
-A: No. We only send email notifying you that you have been selected.
+Q: Will you provide the participants with official letter of invitation? <br>
+A: No. We only send an email notifying you that you have been selected.
 
-Q: Would it possible for someone that do not own a personal laptop to attend the workshop?
-A: Yes, each participants will have access to a desktop computer during the workshop.
+Q: Would it possible for someone that do not own a personal laptop to attend the workshop? <br>
+A: Yes, each participant will have access to a desktop computer during the workshop.
 
-Q: What if I have a personal laptop, can I bring it along?
+Q: What if I have a personal laptop, can I bring it along? <br>
 A: Yes, you can come along with your laptop. However, you will need to install the anaconda distribution. See guidelines at this [link](https://pwsafrica.org/setup/).
+
+Q: What if I can no longer attend the workshop? <br>
+A: If you can no longer attend the workshop for one reason or the other, please let us know by sending an email to pwsafrica@gmail.com. We have lots of people on the waiting list!
+
+Q: Will you provide us with a certificate of participation? <br>
+A: Yes, we will provide you with a certificate, on the condition that you attend all workshop sessions, attempt all programming tasks and assignments, and participate in the final group project. 
+
