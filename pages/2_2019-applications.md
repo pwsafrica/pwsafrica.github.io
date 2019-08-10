@@ -40,6 +40,9 @@ A: School of ICT, College of Science and Tehcnology, University of Rwanda, Kigal
 Q: What venue within the School of ICT is the workshop taking place? <br>
 A: Computer lab, third floor, Kalisimbi building (formerly Kist IV building).
 
+Q: What is the teaching schedule like? <br>
+A: The morning session will run from 9000 to 1300, while the afternoon session will run from 1430 to 1630. Each session will involve teaching with lots of hands-on programming.
+
 Q: Is there provision for accommodation, meals and transportation for the participants? <br>
 A: No. You will have to cater for this yourself.
 
