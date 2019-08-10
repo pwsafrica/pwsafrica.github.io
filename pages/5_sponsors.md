@@ -2,6 +2,7 @@
 layout: page
 title: Our Supporters
 permalink: /supporters/
+hide: true
 subtitle: "<hr> We are very grateful to our sponsors for their generous support."
 feature-img: "assets/img/pexels/computer2-2.jpg"
 ---
