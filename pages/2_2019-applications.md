@@ -45,11 +45,14 @@ A: Computer lab, third floor, Kalisimbi building (formerly Kist IV building).
 Q: What is the teaching schedule like? <br>
 A: The morning session will run from 9000 to 1300, while the afternoon session will run from 1430 to 1830. Each session will involve teaching with lots of hands-on programming.
 
+Q: Will the workshop run on Saturday and Sunday? <br>
+A: No, the workshop will only be running from Monday to Friday.
+
 Q: Is there provision for accommodation, meals and transportation for the participants? <br>
 A: No. You will have to cater for this yourself.
 
 Q: Will you provide the participants with official letter of invitation? <br>
-A: No. We only send an email notifying you that you have been selected.
+A: No, we only send an email notifying you that you have been selected.
 
 Q: Would it possible for someone that do not own a personal laptop to attend the workshop? <br>
 A: Yes, each participant will have access to a desktop computer during the workshop.
@@ -59,6 +62,9 @@ A: Yes, you can come along with your laptop. However, you will need to install t
 
 Q: What if I can no longer attend the workshop? <br>
 A: If you can no longer attend the workshop for one reason or the other, please let us know by sending an email to pwsafrica@gmail.com. We have lots of people on the waiting list!
+
+Q: I missed the application form deadline, can I still attend the workshop? <br>
+A: No, we will only admit those that were selected into the workshop. If you wish to attend however, drop us an email at pwsafrica@gmail.com, we will put you on our waiting list, and you will be notified as soon as a spot becomes available.
 
 Q: Will you provide us with a certificate of participation? <br>
 A: Yes, we will provide you with a certificate, on the condition that you attend all workshop sessions, attempt all programming tasks and assignments, and participate in the final group project. 
