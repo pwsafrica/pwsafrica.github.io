@@ -12,3 +12,4 @@ Here you'll find the materials for our 2019 course!
 
 * [Setting Up](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day1.pdf)
 * [Day 1](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/setup.pdf)
+* [Day 1 extended](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day1_extended.pdf)
