@@ -10,5 +10,5 @@ Here you'll find the materials for our 2019 course!
 
 
 
-* [Setting Up](assets/2019mat/setup.pdf)
-* [Day 1](assets/2019/day1.pdf)
+* [Setting Up](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day1.pdf)
+* [Day 1](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/setup.pdf)
