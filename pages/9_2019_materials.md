@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 2019 Materials
-permalink: /2019/
+permalink: /materials/
 subtitle: "<hr>Welcome to our 2019 course in University of Rwanda!"
 feature_img: "assets/img/pexels/computer2-2.jpg"
 ---
