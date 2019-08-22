@@ -16,3 +16,4 @@ Here you'll find the materials for our 2019 course!
 * [Day 3 Functions](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_3_functions.pdf)
 * [Day 3 While Loops & Randomness](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_3_random_while.pdf)
 * [Day 3 Dictionaries](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_3dictionaries.pdf)
+* [Day 4 Problem Solving](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/probleme_solving.pdf)
