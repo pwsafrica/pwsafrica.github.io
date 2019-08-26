@@ -74,7 +74,8 @@ A: Yes, we will provide you with a certificate, on the condition that you attend
 
 ### Sponsors
 <p float="left">
-  <img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
+  <img src="/assets/img/gcrf.jpg" alt="SoCS"  width="30%" height="30%" alt="GCRF" class="collaborators"/> 
 
+<img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
 </p>
 
