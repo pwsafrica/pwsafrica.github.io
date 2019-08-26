@@ -18,3 +18,4 @@ Here you'll find the materials for our 2019 course!
 * [Day 3 Dictionaries](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_3dictionaries.pdf)
 * [Day 4 Problem Solving](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/probleme_solving.pdf)
 * [Day 5 Dictionaries](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/dictionaries_day_5.pdf)
+* [Day 6 Numpy](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_6_numpy.zip)
