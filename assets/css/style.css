@@ -1,0 +1,57 @@
+.sofiat{
+	/* make a square container */
+    width: 20%;
+    height: 20%;
+	float: right;
+	padding: 20px 0 0 20px;
+	}
+
+.team{
+	/* make a square container */
+    width: 30%;
+    height: 30%;
+	float: right;
+	padding: 20px 0 0 20px;
+	}
+
+.supporter{
+	/* make a square container */
+    width: 40%;
+    height: 40%;
+    float: left;
+	}
+	
+.logo{
+	/* make a square container */
+    width: 20%;
+    height: 20%;
+	float: left;
+	}
+	
+.bio{
+	color: #000000;
+	text-align: justify;
+	font-size: 95%;
+	}
+	
+	
+.collaborators{
+	margin: 0;
+	padding: 10px;
+}
+
+
+.p-header {
+	color: #262626; !important
+	font-size: 90%;
+}
+
+.posts, {
+	padding-left: 0%;
+	padding-right: 0%;
+}
+
+.post-teaser {
+	padding-left: 0%;
+	padding-right: 0%;
+}
