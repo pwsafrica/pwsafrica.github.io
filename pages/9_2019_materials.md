@@ -20,3 +20,10 @@ Here you'll find the materials for our 2019 course!
 * [Day 5 Dictionaries](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/dictionaries_day_5.pdf)
 * [Day 6 Numpy](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_6_numpy.zip)
 * [Day 7 Classes](https://bit.ly/328LLNE)
+
+
+
+## Projects
+
+* [Data Science (Alex)](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/DataScienceProject.zip)
+* [Language Interpreter (Tom)(https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/interpreter.pdf)
