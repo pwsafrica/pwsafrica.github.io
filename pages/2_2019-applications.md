@@ -18,6 +18,23 @@ The two-week long workshop will introduce you to the Python programming language
 
 <hr>
 
+* [Setting Up](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day1.pdf)
+* [Day 1](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/setup.pdf)
+* [Day 1 extended](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day1_extended.pdf)
+* [Day 3 Functions](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_3_functions.pdf)
+* [Day 3 While Loops & Randomness](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_3_random_while.pdf)
+* [Day 3 Dictionaries](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_3dictionaries.pdf)
+* [Day 4 Problem Solving](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/probleme_solving.pdf)
+* [Day 5 Dictionaries](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/dictionaries_day_5.pdf)
+* [Day 6 Numpy](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_6_numpy.zip)
+* [Day 7 Classes](https://bit.ly/328LLNE)
+
+## Projects
+
+* [Data Science (Alex)](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/DataScienceProject.zip)
+* [Language Interpreter (Tom)](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/interpreter.pdf)
+<hr>
+
 ### Tutors
 The following are the PWSA2019 tutors -- they enjoy programming and they are passionate about helping others learn it. The first five people are PhD students from the School of Computing Science, University of Glasgow, while the last two people are from the University of Ibadan in Nigeria. They participated in PWSA2018, and we hope to train them during PWSA2019, so that they can go on to train others in their University effectively.
 
