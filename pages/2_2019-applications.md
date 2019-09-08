@@ -18,6 +18,8 @@ The two-week long workshop will introduce you to the Python programming language
 
 <hr>
 
+### Workshop materials
+
 * [Setting Up](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day1.pdf)
 * [Day 1](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/setup.pdf)
 * [Day 1 extended](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day1_extended.pdf)
