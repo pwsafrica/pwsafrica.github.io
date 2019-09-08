@@ -9,6 +9,11 @@ gallery_path: "assets/img/pwsa_homepage_gallery"
 --- 
 <link rel="stylesheet" href="/assets/css/style.css">
 
+
+## PWSAfrica 2018 in Photos
+
+{% include gallery.html gallery_path=page.gallery_path %}
+
 ## Workshop information
 The workshop covered an intensive two-week long curriculum designed to train participants on the essential programming skills needed for mathematical sciences, using the **Python programming language**. The format of the workshop involved lectures and a lot of practical sessions, supported by a team of tutors. The workshop also aimed to give mathematical concepts context and relevance by exposing the participants to real-world applications arising from research which makes use of mathematical tools and computer programming.
 
@@ -187,9 +192,5 @@ Thanks so much for attending the workshop!
   <img src="/assets/img/sicsa.jpg"  width="60%" height="60%" alt="SICSA"  class="collaborators"/>
 </p>
 
-<hr> 
 
-## PWSAfrica 2018 in Photos
-
-{% include gallery.html gallery_path=page.gallery_path %}
 
