@@ -49,8 +49,8 @@ The two-week long workshop will introduce you to the Python programming language
 
 #### Projects
 
-* [Data Science (Alex)](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/DataScienceProject.zip)
-* [Language Interpreter (Tom)](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/interpreter.pdf)
+* [Data Science](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/DataScienceProject.zip)
+* [Language Interpreter](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/interpreter.pdf)
 <hr>
 
 ### Tutors
