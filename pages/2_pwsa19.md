@@ -15,6 +15,15 @@ gallery_path: "assets/img/pwsa19_gallery"
 
 <hr>
 
+### Sponsors
+<p float="left">
+  <img src="/assets/img/gcrf.jpg" alt="SoCS"  width="30%" height="30%" alt="GCRF" class="collaborators"/> 
+
+<img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
+</p>
+
+<hr>
+
 ### Workshop participants
 We selected 120 participants for our Python training, including undergraduates, postgraduates and staff from different areas of STEM. We had one participant who came all the way from Egerton University in Kenya. Other selected participants from Uganda could not participate in the workshop because they could not afford the travel and accommodation expenses.
 
@@ -96,12 +105,5 @@ Q: Will you provide us with a certificate of participation? <br>
 A: Yes, we will provide you with a certificate, on the condition that you attend all workshop sessions, attempt all programming tasks and assignments, and participate in the final group project. 
 
 
-<hr>
 
-### Sponsors
-<p float="left">
-  <img src="/assets/img/gcrf.jpg" alt="SoCS"  width="30%" height="30%" alt="GCRF" class="collaborators"/> 
-
-<img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
-</p>
 

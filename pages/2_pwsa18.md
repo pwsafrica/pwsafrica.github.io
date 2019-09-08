@@ -16,6 +16,15 @@ gallery_path: "assets/img/pwsa18_gallery"
 
 <hr>
 
+### Sponsors
+<p float="left">
+  <img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
+  <img src="/assets/img/sicsa.jpg"  width="60%" height="60%" alt="SICSA"  class="collaborators"/>
+</p>
+
+
+<hr>
+
 ## Workshop information
 The workshop covered an intensive two-week long curriculum designed to train participants on the essential programming skills needed for mathematical sciences, using the **Python programming language**. The format of the workshop involved lectures and a lot of practical sessions, supported by a team of tutors. The workshop also aimed to give mathematical concepts context and relevance by exposing the participants to real-world applications arising from research which makes use of mathematical tools and computer programming.
 
@@ -186,13 +195,6 @@ We've put together one final piece of materials: a Jupyter Notebook containing a
 
 Thanks so much for attending the workshop!
 
-<hr>
-
-### Sponsors
-<p float="left">
-  <img src="/assets/img/SoCS.png" alt="SoCS"  width="30%" height="30%" alt="SoCS" class="collaborators"/> 
-  <img src="/assets/img/sicsa.jpg"  width="60%" height="60%" alt="SICSA"  class="collaborators"/>
-</p>
 
 
 
