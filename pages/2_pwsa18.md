@@ -4,7 +4,7 @@ title: PWSA2018
 permalink: /2018/
 subtitle: "<hr>Where: Department of Mathematics, University of Ibadan, Nigeria. <br> <br> When: July 30 - August 10 2018."
 feature-img: "assets/img/pexels/computer2-2.jpg"
-gallery_path: "assets/img/pwsa_homepage_gallery"
+gallery_path: "assets/img/pwsa18_gallery"
 
 --- 
 <link rel="stylesheet" href="/assets/css/style.css">
