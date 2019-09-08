@@ -10,7 +10,7 @@ gallery_path: "assets/img/pwsa18_gallery"
 <link rel="stylesheet" href="/assets/css/style.css">
 
 
-## PWSAfrica 2018 in Photos
+## PWSA2018 in Photos
 
 {% include gallery.html gallery_path=page.gallery_path %}
 
