@@ -31,7 +31,7 @@ The two-week long workshop will introduce you to the Python programming language
 * [Day 6 Numpy](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/day_6_numpy.zip)
 * [Day 7 Classes](https://bit.ly/328LLNE)
 
-## Projects
+#### Projects
 
 * [Data Science (Alex)](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/DataScienceProject.zip)
 * [Language Interpreter (Tom)](https://github.com/pwsafrica/pwsafrica.github.io/raw/master/assets/2019mat/interpreter.pdf)

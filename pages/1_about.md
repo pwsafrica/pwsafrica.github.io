@@ -12,4 +12,4 @@ Our goal is to empower scientists at the University level in Africa with the com
 ## Previous workshops
 With support from the [School of Computing Science](https://www.gla.ac.uk/schools/computing/internationalpartners/internationaloutreach/) at the University of Glasgow, we started off our workshop series in 2018 at the University of Ibadan in Nigeria, delivering a two-week training which focused on the fundamental concepts of Python programming for mathematical sciences. In 2019, we ran a similar workshop at the University of Rwanda, Kigali, where we focused on the fundamentals of Python programming for scientific purposes.
 
-# Would you like for us to come run a similar workshop at your University next year? Please email the team at <emph> pwsafrica@gmail.com, so that you will get notified when the application to host process opens</emph>.
+#### Would you like for us to come run a similar workshop at your University next year? Please email the team at <emph> pwsafrica@gmail.com, so that you will get notified when the application to host process opens</emph>.
