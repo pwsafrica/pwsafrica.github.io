@@ -4,12 +4,19 @@ title: PWSA2019
 permalink: /2019/
 subtitle: "<hr>Where: School of ICT, College of Science and Technology, University of Rwanda.<br> <br> When: 19 - 30 August 2019."
 feature-img: "assets/img/pexels/computer2-2.jpg"
+gallery_path: "assets/img/pwsa19_gallery"
 ---
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
+## PWSAfrica 2018 in Photos
+
+{% include gallery.html gallery_path=page.gallery_path %}
+
+<hr>
+
 ### Workshop participants
-The application for the workshop is closed! We selected 120 participants and they have all been contacted. Please note that we can no longer accommodate more people!
+We selected 120 participants for our Python training, including undergraduates, postgraduates and staff from different areas of STEM. We had one participant who came all the way from Egerton University in Kenya. Other selected participants from Uganda could not participate in the workshop because they could not afford the travel and accommodation expenses.
 
 <hr>
 
